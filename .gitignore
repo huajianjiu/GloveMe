@@ -92,3 +92,5 @@ ENV/
 .zip
 text8
 text9
+.bin
+.txt
