@@ -89,8 +89,8 @@ ENV/
 .ropeproject
 
 # otherfile
-.zip
+*.zip
 text8
 text9
-.bin
-.txt
+*.bin
+*.txt
