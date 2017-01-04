@@ -1,5 +1,6 @@
 ## GloVe: Global Vectors for Word Representation
-#The eval prefix should be revised for different machine.
+#The prefix variable in the python eval script should be revised for different machine.
+#The following is the README of the original authors.
 
 <em>frog</em> nearest neighbors | Litoria             |  Leptodactylidae | Rana | Eleutherodactylus
 -------------------------|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
